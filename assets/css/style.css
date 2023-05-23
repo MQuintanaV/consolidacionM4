@@ -1,0 +1,53 @@
+.losTitulos{
+    color:red;
+    text-align: center;
+}
+
+.fondoPresupuesto{
+    background-color: #EAFAF1;
+    border: 3px solid green;
+    border-radius: 12px;
+    margin-bottom:2%;
+    padding-bottom: 3%;
+}
+
+#txtPresupuesto{
+    background-color: #EAFAF1;
+}
+
+.fondoGasto{
+    background-color: #ffced9;
+    border: 3px solid #B40404;
+    border-radius: 12px;
+    margin-top: 2%;
+    padding-bottom: 3%;
+}
+#txtCantidadGasto{
+    background-color: #ffced9;
+    border: 1px solid #A4A4A4;
+}
+#txtNombreGasto{
+    background-color: #ffced9;
+    border: 1px solid #A4A4A4;
+}
+
+.fondoRegistro1{
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 12px;
+    margin-bottom:2%;
+}
+
+.fondoRegistro2{
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 12px;
+    margin-top:2%;    
+}
+
+#linea{
+    border-bottom: 1px solid black;
+}
+img{
+    max-width: 18px;
+}
